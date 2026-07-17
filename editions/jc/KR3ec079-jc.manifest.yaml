@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec079_000-jc.yaml, hash: 'sha256:9e1e495d79ce317a4737d7d78f8ee0ba953fd2ade5ad77f509bf6b3ed41dd195'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec079_000-jc.markers.yaml, hash: 'sha256:543045af88635d73aaa5428f2fb85c413dee543b94eb48f80b546903872802ba'}
+  - {seq: 0, role: markers, filename: assets/KR3ec079_000-jc.markers.yaml, hash: 'sha256:ee6aa5afa34be6e1f7da3f62c9c42478354d42826c73f17f32ef2f8ec5a33848'}
 table_of_contents:
 - ref:
     seq: 0
@@ -220,4 +220,4 @@ table_of_contents:
   label: 第四章結論
   type: section
   level: 1
-hash: sha256:bfc1afacb95e2531b7d5ec8821b9d3e65e9a5356693f62735141b702b4dcc0f6
+hash: sha256:9a0aeac513981aeab3b80009d3e5ee1ae63648c836bc813490d99e824f681b77
